@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.pglc1026</groupId>
-    <artifactId>spring-boot3-demo</artifactId>
+    <artifactId>spring-boot3-http-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot3-demo</name>
     <modules>
