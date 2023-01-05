@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.pglc1026</groupId>
-        <artifactId>spring-boot3-demo</artifactId>
+        <artifactId>spring-boot3-http-demo</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>server</artifactId>
